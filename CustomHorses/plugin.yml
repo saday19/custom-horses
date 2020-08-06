@@ -1,0 +1,8 @@
+main: com.mcf.horse.HorseSaddles
+name: CustomHorses
+version: 1.0
+author: Saday
+commands:
+  customhorses:
+    description: Custom Horses command.
+    aliases: [horses, horse, ch]
